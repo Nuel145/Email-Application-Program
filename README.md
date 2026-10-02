@@ -43,3 +43,37 @@ Email-Application-Program/
             └── org/
                 └── example/
                     └── Main.java
+
+How to Run
+1. Clone the Repository
+git clone https://github.com/Nuel145/Email-Application-Program.git
+2. Open the Project
+
+Open the project in IntelliJ IDEA, VS Code, or another Java-compatible IDE.
+
+3. Build the Project
+
+Using Maven:
+
+mvn clean install
+4. Run the Application
+
+Run the EmailApp.java class from your IDE.
+
+Learning Objectives
+
+This project was created to practice:
+
+Java classes and objects
+Constructors
+Methods
+Encapsulation
+Access modifiers
+String manipulation
+User input
+Object-Oriented Programming
+Maven project structure
+Git and GitHub
+Author: Nuel145
+
+GitHub: https://github.com/Nuel145
